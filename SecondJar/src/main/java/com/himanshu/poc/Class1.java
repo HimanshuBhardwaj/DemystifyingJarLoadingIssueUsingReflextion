@@ -1,8 +1,6 @@
 package com.himanshu.poc;
 
 
-import java.lang.reflect.InvocationTargetException;
-
 public class Class1 {
     public static void main(String[] args) throws Exception {
         Class<?> c = Class.forName("com.himanshu.poc.Class2");
