@@ -5,6 +5,6 @@ package com.himanshu.poc.second;
  */
 public class Class2 {
     public void method() {
-        System.out.println("Class1 from Second Jar!");
+        System.out.println("Class1 from first Jar!");
     }
 }
