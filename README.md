@@ -1,5 +1,10 @@
 # DemystifyingJarLoadingIssue
 
+This is a POC to validate if it is the complete jar or only class which is uploaded in metaspace.
+
+I have two classes Class1 in jar2 and and Class2 in both jar1 and jar2. Class1 calls Class2. Both Class1 and Class2 are public. jar is put first in the classpath
+IF Class2 of jar1 is picked means it is classpath's class is picked despite jar2's class in memory. If Class2 of jar2 is picked then j
+
 
 Requirements
 -------------
