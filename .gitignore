@@ -1,0 +1,16 @@
+*.metadata
+*.classpath
+*.project
+*.settings
+target/
+*.externalToolBuilders
+*maven-eclipse.xml
+*/*.metadata
+*/*.classpath
+*/*.project
+*/*.settings
+*/target/
+*/*.externalToolBuilders
+*/*maven-eclipse.xml
+.idea/*
+*.iml
